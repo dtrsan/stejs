@@ -1,0 +1,33 @@
+#console div {
+  border-radius: 5px;
+  margin-bottom: 2px;
+  padding: 3px 10px;
+}
+
+.success {
+  border: 1px solid #04ff04;
+  background-color: #e4ffe4;
+}
+
+.error {
+  border: 1px solid #ff0404;
+  background-color: #ffe4e4;
+}
+
+.time {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+input[type="button"] {
+  width: 220px;
+}
+
+#console {
+  border: 1px solid #cecece;
+  font-family: monospace;
+  min-height: 20px;
+  padding: 5px;
+  width: 480px;
+}
+
